@@ -9,11 +9,11 @@
             alt="chat on Discord"></a>
 
 ```sh
-yarn add @react-native-voice/voice
+yarn add @soltrinox/voice
 
 # or
 
-npm i @react-native-voice/voice --save
+npm i @soltrinox/voice --save
 ```
 
 Link the iOS package
